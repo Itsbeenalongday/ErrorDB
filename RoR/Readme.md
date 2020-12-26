@@ -1,4 +1,4 @@
-1. jquery-gem이용 시, jquery가 define되지 않는 경우
+## 1. jquery-gem이용 시, jquery가 define되지 않는 경우
 
 ```ruby
 # assets/views/layouts/application.html.erb
