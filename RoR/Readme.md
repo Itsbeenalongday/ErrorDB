@@ -8,4 +8,13 @@
 로 수정
 ```
 
+## 2. Rails: Sprockets::Rails::Helper::AssetNotPrecompiled in development 에러
+
+```ruby
+# config/environments.development.rb
+
+config.assets.check_precompiled_asset = false
+
+추가
+```
 
