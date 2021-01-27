@@ -40,3 +40,10 @@ $ git rm -f <<app>>
 $ git pull origin 브런치명 --allow-unrelated-histories
 
 ```
+
+5. Git Global Config 와 다른 계정 사용하기
+```bash
+
+$ git remote add origin https://<<user_name 붙이기>>@github.com/sungmin2/test_App
+
+```
