@@ -18,7 +18,7 @@ config.assets.check_precompiled_asset = false
 추가
 ```
 
-## 3. Rails db:drop, db:create 하여 데이터베이스를 재생성 한 경우
+## 3. Rails db:drop, db:create 하여 데이터베이스를 재생성 했을 때, rails console이 안 열릴 경우 spring server를 죽여야함
 
 ```bash
 
